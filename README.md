@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Likhithkumar12
 - 👀 I’m interested in python
-- 🌱 I’m currently learning datascience in python
+- 🌱 I’m currently learning python and web development
 - 📫 How to reach me ...@Likhithkumar12
 - just trust yourself
 
