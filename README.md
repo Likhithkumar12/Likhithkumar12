@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=likhithkumar&label=Profile%20views&color=0e75b6&style=flat" alt="likhithkumar" /> </p>
 
-<p align="left"> <a href="https://x.com/likhithkumar45" target="blank"><img src="https://img.shields.io/twitter/follow/prathamasaigoli?logo=twitter&style=for-the-badge" alt="likhithkumar" /></a> </p>
+<p align="left"> <a href="https://x.com/likhithkumar45" target="blank"><img src="https://img.shields.io/twitter/follow/likhithkumar?logo=twitter&style=for-the-badge" alt="likhithkumar" /></a> </p>
 
 
 - 💬 Ask me about **C ,C++, Python , Java, Machine Learning,Deep Learning, Photoshop**
