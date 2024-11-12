@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=likhithkumar12&label=Profile%20views&color=0e75b6&style=flat" alt="likhithkumar12" /> </p>
 
-- 🔭 I’m currently pursuing **B Tech**
 
 - 🌱 I’m currently learning **LLM**
 
