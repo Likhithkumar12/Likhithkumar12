@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Likhithkumar12/Likhithkumar12](https://github.com/Likhithkumar12/Likhithkumar12)
 
-- 💬 Ask me about **Machine Learning and AI**
+- 💬 Ask me about **Machine Learning ,AI and Game Development**
 
 - 📫 How to reach me **likhithkulal0@gmail.com**
 
