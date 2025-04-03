@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=likhithkumar12&label=Profile%20views&color=0e75b6&style=flat" alt="likhithkumar12" /> </p>
 
 
-- 🌱 I’m currently learning **LLM**
+- 🌱 I’m currently learning **Unity and UnReal Engine**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Likhithkumar12/Likhithkumar12](https://github.com/Likhithkumar12/Likhithkumar12)
 
