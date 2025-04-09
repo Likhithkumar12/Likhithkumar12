@@ -13,7 +13,6 @@
 
 - 📫 How to reach me: **likhithkulal0@gmail.com**
 
-- 📄 Know about my experiences: [Resume Link](https://drive.google.com/file/d/1L6wfPyGf0tj1NYcua2LqIp6LxeZvifuF/view?usp=drive_link)
 
 ---
 
