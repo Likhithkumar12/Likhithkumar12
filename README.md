@@ -68,20 +68,6 @@ xp:       Leveling Up Every Day
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 
----
-
-## 📊 Stats & Achievements
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=likhithkumar12&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=ffffff" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=likhithkumar12&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=ffffff" alt="Top Languages" height="165"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=likhithkumar12&theme=radical&hide_border=true&background=0d1117&ring=00ff88&fire=00ff88&currStreakLabel=00ff88" alt="Streak Stats" />
-
-</div>
 
 ---
 
